@@ -3,12 +3,12 @@
 module.exports = {
 
   development: {
-    client: 'mysql',
+    client: 'sqlite3',
     connection: {
-      filename: './src/database/db.mysql',  // diretório da criação do banco
+      filename: './src/database/db.sqlite',  // diretório da criação do banco
       host : 'localhost',
     user : 'carlossts',
-    password : '12345678',
+    password : 'c1a2r3s4#A',
     database : 'SemanaOmniStack11'
     },
     migrations: {
