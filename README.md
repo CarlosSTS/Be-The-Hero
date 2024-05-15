@@ -14,9 +14,9 @@ O app contém os seguintes módulos
 
 <table>
   <tr>
-<td><img src="https://github.com/CarlosSTS/Semana_Omnistack_11/blob/master/assets/logo.png" alt="Foto do App logo" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/Semana_Omnistack_11/blob/master/assets/dashboard.png" alt="Foto do App Dashboard" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/Semana_Omnistack_11/blob/master/assets/description.png" alt="Foto do App description" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fbe-the-hero%2Flogo.png?alt=media&token=fa28ac31-6268-4c4b-97ec-f1da02a86cb8" alt="Foto do App logo" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fbe-the-hero%2Fdashboard.png?alt=media&token=fbc0673a-1b7c-4085-8f41-8c2f1e76f84f" alt="Foto do App Dashboard" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fbe-the-hero%2Fdescription.png?alt=media&token=fdbe86e0-657e-433e-ac2e-087cb6dabf43" alt="Foto do App description" width="360" /></td>
 </tr>
 </table>
 
@@ -24,7 +24,7 @@ O app contém os seguintes módulos
 
 RODANDO O PROJETO MOBILE
 
-- yarn install => para instalar Dependências do projeto
+- yarn install => para instalar dependências do projeto
 - yarn start => para inicializar o projeto
 - yarn android => para executar o projeto no emulador android
 - yarn ios => Para executar no emulador iOS
@@ -34,7 +34,7 @@ RODANDO O PROJETO MOBILE
 
 RODANDO O PROJETO NO BACKEND
 
-- yarn install => para instalar Dependências do projeto
+- yarn install => para instalar dependências do projeto
 - yarn start => para inicializar o projeto
 
 ## Feito por Carlos Ferreira
